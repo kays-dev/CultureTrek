@@ -42,9 +42,9 @@ Projet réalisé en équipe de 4 dans le cadre de l'Advanced Apple Foundation Pr
 | Membre | GitHub | Contributions principales |
 |---|---|---|
 | Krystal | [@kays-dev](https://github.com/kays-dev) | Écran Découvrir, liste des treks, fiche détail et fiche d'un trek terminé, store des treks |
-| Mathieu
-| Ramya
-| Evgeniia
+| Mathieu | [@mnivelles](https://github.com/mnivelles) | Énigmes (parcours et écrans), écran de fin de trek, modèles de données Trek et User |
+| Ramya | [@ramyacanessane-cloud](https://github.com/ramyacanessane-cloud) | Quiz : questions, réponses, explications et écran de fin |
+| Evgeniia | [@vooowitch-hub](https://github.com/vooowitch-hub) | Historique des treks : écran, carte, tri et filtres, ViewModel |
 
 ## 📜 LICENSE
 
